@@ -9,11 +9,12 @@
 
 .bg{
     position: absolute;
-    top: -14rem;
+    top: 3rem;
     right: 0;
     z-index: -1;
     object-fit: cover;
-    height: 150vh;
+    height: 75vh;
+    background: transparent;
 }
 
 .introContent{
